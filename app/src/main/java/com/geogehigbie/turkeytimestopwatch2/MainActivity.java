@@ -319,7 +319,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         String emailMessage = "The Big Turkey says that your time was " + savedTime + ". " +
-                "Download the The Big Turkey Timer app at: https://play.google.com/store/apps/details?id=com.geogehigbie.TurkeyTimerStopWatch";
+                "Download the TurkeyTimer app at: https://play.google.com/store/apps/details?id=com.geogehigbie.TurkeyTimeStopWatch2";
         String emailSubject = "Your Big Turkey time";
 
         Intent emailIntent = new Intent(Intent.ACTION_SEND);
